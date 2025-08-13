@@ -2,7 +2,7 @@
 
 # Activity Schedules Assignment
 
-**Name:** Hashim Arinat  
+**Name:** Hashem Erainat 
 **ID:** hashemarenat111@gmail.com ||
 
 
