@@ -2,8 +2,7 @@
 
 # Activity Schedules Assignment
 
-**Name:** Hashem Erainat 
-**ID:** hashemarenat111@gmail.com ||
+**Name:** Hashem Erainat   ||   **ID:**  hashemarenat111@gmail.com
 
 
 ## Problem Statement
